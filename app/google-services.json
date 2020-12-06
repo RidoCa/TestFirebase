@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178699275418",
+    "project_id": "firesplash-bc1bd",
+    "storage_bucket": "firesplash-bc1bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178699275418:android:5ba831cb0003a61ffca323",
+        "android_client_info": {
+          "package_name": "com.example.coba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178699275418-7se45q37b682u3f440iu0pjgqtnnbj6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coba",
+            "certificate_hash": "0eb588f299b7fb3dc5e8dc8c559f92e4954cce3a"
+          }
+        },
+        {
+          "client_id": "178699275418-v6p61b4nqtuo1ge2h9vpb6hh01hth77f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASuYb7VG8cyoKONn_-UIcrVPPzvRfKSlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178699275418-v6p61b4nqtuo1ge2h9vpb6hh01hth77f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
